@@ -1,0 +1,1 @@
+(hooker, dr rax=0, dc);db $$+5 @@=`axt sym.imp.ptrace~CALL~call[1]`;dbc $$+5 .(hooker) @@=`axt sym.imp.ptrace~CALL~call[1]` #bypass ptrace debugging detection
